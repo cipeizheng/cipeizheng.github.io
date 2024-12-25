@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on CipeiZheng</title>
-    <link>https://cipeizheng.github.io/posts/</link>
-    <description>Recent content in Posts on CipeiZheng</description>
+    <title>Linux on CipeiZheng</title>
+    <link>https://cipeizheng.github.io/tags/linux/</link>
+    <description>Recent content in Linux on CipeiZheng</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cipeizheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cipeizheng.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>从零开始的Loongson 2K500开发环境踩坑</title>
       <link>https://cipeizheng.github.io/posts/first-loongarch/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://cipeizheng.github.io/posts/first-loongarch/</guid>
       <description>记录了我在部署开发环境时遇到的小坑，回头看其实只是因为不熟悉交叉编译和内核开发闹出的一些小笑话，不过也很有纪念意义，于是记录下来。</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>https://cipeizheng.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://cipeizheng.github.io/posts/my-first-post/</guid>
-      <description>CipeiZheng&amp;#39;s first post.</description>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,17 @@
     <title>CipeiZheng</title>
     <link>https://cipeizheng.github.io/</link>
     <description>Recent content on CipeiZheng</description>
-    <generator>Hugo -- 0.139.2</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cipeizheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从零开始的Loongson 2K500开发环境踩坑</title>
+      <link>https://cipeizheng.github.io/posts/first-loongarch/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/posts/first-loongarch/</guid>
+      <description>记录了我在部署开发环境时遇到的小坑，回头看其实只是因为不熟悉交叉编译和内核开发闹出的一些小笑话，不过也很有纪念意义，于是记录下来。</description>
+    </item>
     <item>
       <title>My 1st post</title>
       <link>https://cipeizheng.github.io/posts/my-first-post/</link>
