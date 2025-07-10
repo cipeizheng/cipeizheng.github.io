@@ -4,10 +4,24 @@
     <title>Posts on CipeiZheng</title>
     <link>https://cipeizheng.github.io/posts/</link>
     <description>Recent content in Posts on CipeiZheng</description>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.148.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cipeizheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leetcode 3440 的思考</title>
+      <link>https://cipeizheng.github.io/posts/reschedule-meetings/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/posts/reschedule-meetings/</guid>
+      <description>Leetcode 3440 的思考</description>
+    </item>
+    <item>
+      <title>Java 泛型的通配符与PECS原则</title>
+      <link>https://cipeizheng.github.io/posts/pecs/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/posts/pecs/</guid>
+      <description>总的来说，Java泛型中的`extends`和`super`通配符主要是为了提高方法的灵活性，同时保证类型安全。</description>
+    </item>
     <item>
       <title>从零开始的Loongson 2K500开发环境踩坑</title>
       <link>https://cipeizheng.github.io/posts/first-loongarch/</link>

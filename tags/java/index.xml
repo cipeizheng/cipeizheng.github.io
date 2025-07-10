@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java on CipeiZheng</title>
+    <link>https://cipeizheng.github.io/tags/java/</link>
+    <description>Recent content in Java on CipeiZheng</description>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cipeizheng.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java 泛型的通配符与PECS原则</title>
+      <link>https://cipeizheng.github.io/posts/pecs/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/posts/pecs/</guid>
+      <description>总的来说，Java泛型中的`extends`和`super`通配符主要是为了提高方法的灵活性，同时保证类型安全。</description>
+    </item>
+  </channel>
+</rss>
