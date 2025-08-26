@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cipeizheng.github.io/tags/algorithm/</loc>
-    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cipeizheng.github.io/</loc>
-    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/tags/greedy/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cipeizheng.github.io/tags/leetcode/</loc>
-    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cipeizheng.github.io/posts/reschedule-meetings/</loc>
-    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cipeizheng.github.io/posts/</loc>
-    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cipeizheng.github.io/tags/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/posts/jump-game/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/posts/reschedule-meetings/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cipeizheng.github.io/tags/java/</loc>

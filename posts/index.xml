@@ -4,16 +4,23 @@
     <title>Posts on CipeiZheng</title>
     <link>https://cipeizheng.github.io/posts/</link>
     <description>Recent content in Posts on CipeiZheng</description>
-    <generator>Hugo -- 0.148.0</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cipeizheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Leetcode 3440 的思考</title>
+      <title>剖析跳跃游戏 I &amp;&amp; II</title>
+      <link>https://cipeizheng.github.io/posts/jump-game/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/posts/jump-game/</guid>
+      <description>leetcode 跳跃游戏 I 和 II 的贪心算法解法</description>
+    </item>
+    <item>
+      <title>两个重新安排会议的题目</title>
       <link>https://cipeizheng.github.io/posts/reschedule-meetings/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://cipeizheng.github.io/posts/reschedule-meetings/</guid>
-      <description>Leetcode 3440 的思考</description>
+      <description>Leetcode 3440 重新安排会议得到最多空余时间 II 的思考</description>
     </item>
     <item>
       <title>Java 泛型的通配符与PECS原则</title>
