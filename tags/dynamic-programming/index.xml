@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dynamic Programming on CipeiZheng</title>
+    <link>https://cipeizheng.github.io/tags/dynamic-programming/</link>
+    <description>Recent content in Dynamic Programming on CipeiZheng</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cipeizheng.github.io/tags/dynamic-programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>背包问题: 模板 &#43; 边界问题</title>
+      <link>https://cipeizheng.github.io/posts/knapsack/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/posts/knapsack/</guid>
+      <description>背包问题是算法中的经典问题，涉及到资源分配、组合优化等多个领域。本文将全面总结背包问题的4大模板，并针对常见的5大边界问题进行详解，帮助读者在面对各种背包问题时能够快速定位并解决。</description>
+    </item>
+  </channel>
+</rss>

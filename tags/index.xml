@@ -4,22 +4,64 @@
     <title>Tags on CipeiZheng</title>
     <link>https://cipeizheng.github.io/tags/</link>
     <description>Recent content in Tags on CipeiZheng</description>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cipeizheng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Greedy</title>
-      <link>https://cipeizheng.github.io/tags/greedy/</link>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cipeizheng.github.io/tags/greedy/</guid>
+      <title>Dynamic Programming</title>
+      <link>https://cipeizheng.github.io/tags/dynamic-programming/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/tags/dynamic-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Knapsack</title>
+      <link>https://cipeizheng.github.io/tags/knapsack/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/tags/knapsack/</guid>
       <description></description>
     </item>
     <item>
       <title>Leetcode</title>
       <link>https://cipeizheng.github.io/tags/leetcode/</link>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://cipeizheng.github.io/tags/leetcode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DIMM</title>
+      <link>https://cipeizheng.github.io/tags/dimm/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/tags/dimm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DRAM</title>
+      <link>https://cipeizheng.github.io/tags/dram/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/tags/dram/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://cipeizheng.github.io/tags/hardware/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Memory</title>
+      <link>https://cipeizheng.github.io/tags/memory/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/tags/memory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Greedy</title>
+      <link>https://cipeizheng.github.io/tags/greedy/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cipeizheng.github.io/tags/greedy/</guid>
       <description></description>
     </item>
     <item>

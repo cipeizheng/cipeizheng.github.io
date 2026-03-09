@@ -3,18 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cipeizheng.github.io/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cipeizheng.github.io/tags/greedy/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <loc>https://cipeizheng.github.io/tags/dynamic-programming/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/tags/knapsack/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cipeizheng.github.io/tags/leetcode/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cipeizheng.github.io/posts/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cipeizheng.github.io/tags/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/posts/knapsack/</loc>
+    <lastmod>2026-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/tags/dimm/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/posts/dram/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/tags/dram/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/tags/hardware/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/tags/memory/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cipeizheng.github.io/tags/greedy/</loc>
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cipeizheng.github.io/posts/jump-game/</loc>
